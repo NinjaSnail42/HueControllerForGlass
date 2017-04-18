@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trigger command="CONTROL_MY_HOME">
+    <constraints
+        network="true" />
+</trigger><!-- From: file:/D:/One%20Drive/Documents/Hue%20Controller%20for%20Glass/App%20Project/HueContollerForGlass/res/xml/app_voice_trigger.xml -->

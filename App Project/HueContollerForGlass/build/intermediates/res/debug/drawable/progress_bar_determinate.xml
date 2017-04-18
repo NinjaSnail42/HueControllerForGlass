@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clip android:clipOrientation="horizontal"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape android:shape="rectangle">
+        <solid android:color="@android:color/white" />
+        <size android:height="@dimen/slider_bar_height" />
+    </shape>
+</clip><!-- From: file:/D:/One%20Drive/Documents/Hue%20Controller%20for%20Glass/App%20Project/HueContollerForGlass/res/drawable/progress_bar_determinate.xml -->

@@ -1,0 +1,154 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+C:\Users\Brandon Huettner\AndroidstudioProjects\HueContollerForGlass
+                -                                                   
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From HueContollerForGlass:
+* ic_launcher-web.png
+* proguard-project.txt
+From glassprogressbar-github:
+* .gitignore
+* README.md
+* build.gradle
+* testwithlibrary\
+* testwithlibrary\.classpath
+* testwithlibrary\.project
+* testwithlibrary\.settings\
+* testwithlibrary\.settings\org.eclipse.jdt.core.prefs
+* testwithlibrary\AndroidManifest.xml
+* testwithlibrary\bin\
+* testwithlibrary\bin\AndroidManifest.xml
+* testwithlibrary\bin\R.txt
+* testwithlibrary\bin\classes.dex
+* testwithlibrary\bin\classes\
+* testwithlibrary\bin\classes\com\
+* testwithlibrary\bin\classes\com\andrusiv\
+* testwithlibrary\bin\classes\com\andrusiv\google\
+* testwithlibrary\bin\classes\com\andrusiv\google\glass\
+* testwithlibrary\bin\classes\com\andrusiv\google\glass\progressbar\
+* testwithlibrary\bin\classes\com\andrusiv\google\glass\progressbar\R$anim.class
+* testwithlibrary\bin\classes\com\andrusiv\google\glass\progressbar\R$dimen.class
+* testwithlibrary\bin\classes\com\andrusiv\google\glass\progressbar\R$drawable.class
+* testwithlibrary\bin\classes\com\andrusiv\google\glass\progressbar\R$id.class
+* testwithlibrary\bin\classes\com\andrusiv\google\glass\progressbar\R$integer.class
+* testwithlibrary\bin\classes\com\andrusiv\google\glass\progressbar\R$layout.class
+* testwithlibrary\bin\classes\com\andrusiv\google\glass\progressbar\R$raw.class
+* testwithlibrary\bin\classes\com\andrusiv\google\glass\progressbar\R$style.class
+* testwithlibrary\bin\classes\com\andrusiv\google\glass\progressbar\R.class
+* testwithlibrary\bin\classes\com\example\
+* testwithlibrary\bin\classes\com\example\testwithlibrary\
+* testwithlibrary\bin\classes\com\example\testwithlibrary\BuildConfig.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\DialogActivity$1.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\DialogActivity.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\MainActivity.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\R$anim.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\R$attr.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\R$dimen.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\R$drawable.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\R$id.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\R$integer.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\R$layout.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\R$raw.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\R$string.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\R$style.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\R$xml.class
+* testwithlibrary\bin\classes\com\example\testwithlibrary\R.class
+* testwithlibrary\bin\dexedLibs\
+* testwithlibrary\bin\dexedLibs\glassprogressbar-github-4fdc9724c139b62e1c13ab7fa3b27545.jar
+* testwithlibrary\bin\res\
+* testwithlibrary\bin\res\crunch\
+* testwithlibrary\bin\res\crunch\drawable-hdpi\
+* testwithlibrary\bin\res\crunch\drawable-hdpi\ic_done_50.png
+* testwithlibrary\bin\res\crunch\drawable-hdpi\ic_launcher.png
+* testwithlibrary\bin\res\crunch\drawable-hdpi\ic_sync_50.png
+* testwithlibrary\bin\resources.ap_
+* testwithlibrary\bin\testwithlibrary.apk
+* testwithlibrary\gen\
+* testwithlibrary\gen\com\
+* testwithlibrary\gen\com\andrusiv\
+* testwithlibrary\gen\com\andrusiv\google\
+* testwithlibrary\gen\com\andrusiv\google\glass\
+* testwithlibrary\gen\com\andrusiv\google\glass\progressbar\
+* testwithlibrary\gen\com\andrusiv\google\glass\progressbar\R.java
+* testwithlibrary\gen\com\example\
+* testwithlibrary\gen\com\example\testwithlibrary\
+* testwithlibrary\gen\com\example\testwithlibrary\BuildConfig.java
+* testwithlibrary\gen\com\example\testwithlibrary\R.java
+* testwithlibrary\proguard-project.txt
+* testwithlibrary\project.properties
+* testwithlibrary\res\
+* testwithlibrary\res\drawable-hdpi\
+* testwithlibrary\res\drawable-hdpi\ic_done_50.png
+* testwithlibrary\res\drawable-hdpi\ic_launcher.png
+* testwithlibrary\res\drawable-hdpi\ic_sync_50.png
+* testwithlibrary\res\layout\
+* testwithlibrary\res\layout\activity_dialog.xml
+* testwithlibrary\res\layout\activity_main.xml
+* testwithlibrary\res\values\
+* testwithlibrary\res\values\dimens.xml
+* testwithlibrary\res\values\strings.xml
+* testwithlibrary\res\xml\
+* testwithlibrary\res\xml\demo_message_dialog.xml
+* testwithlibrary\res\xml\demo_progress_bar.xml
+* testwithlibrary\src\
+* testwithlibrary\src\com\
+* testwithlibrary\src\com\example\
+* testwithlibrary\src\com\example\testwithlibrary\
+* testwithlibrary\src\com\example\testwithlibrary\DialogActivity.java
+* testwithlibrary\src\com\example\testwithlibrary\MainActivity.java
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In glassprogressbar-github:
+* AndroidManifest.xml => glassprogressbargithub\src\main\AndroidManifest.xml
+* assets\ => glassprogressbargithub\src\main\assets\
+* res\ => glassprogressbargithub\src\main\res\
+* src\ => glassprogressbargithub\src\main\java\
+In HueContollerForGlass:
+* AndroidManifest.xml => hueContollerForGlass\src\main\AndroidManifest.xml
+* assets\ => hueContollerForGlass\src\main\assets\
+* libs\huelocalsdk.jar => hueContollerForGlass\libs\huelocalsdk.jar
+* libs\sdkresources.jar => hueContollerForGlass\libs\sdkresources.jar
+* res\ => hueContollerForGlass\src\main\res\
+* src\ => hueContollerForGlass\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

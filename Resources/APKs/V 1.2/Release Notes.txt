@@ -1,0 +1,13 @@
+Hue Controller for Glass version 1.2:
+
+This version introduces a settings menu.
+
+	-Change Bridge settings like:	
+		1. Renaming the Bridge.
+		2. Deleting the Bridge, and adding a new one.
+	
+	-It also gives detailed information about your bridge like:
+		1. Name
+		2. IP Address
+		3. MAC Address
+		4. Software Version

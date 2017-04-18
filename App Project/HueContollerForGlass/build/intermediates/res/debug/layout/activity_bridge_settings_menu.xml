@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="240px"
+        android:layout_height="360px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="#3E3E3E"
+        android:src="@drawable/bridge" />
+
+    <TextView
+        android:id="@+id/ipText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/nameText"
+        android:layout_below="@+id/nameText"
+        android:layout_marginTop="40px"
+        android:text="Display IP Here"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    
+       <TextView
+        android:id="@+id/macText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/nameText"
+        android:layout_below="@+id/ipText"
+        android:layout_marginTop="40px"
+        android:text="Display MAC Here"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+       
+       <TextView
+        android:id="@+id/versionText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/nameText"
+        android:layout_below="@+id/macText"
+        android:layout_marginTop="40px"
+        android:text="Display Version Here"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/nameText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="40px"
+        android:layout_marginTop="40px"
+        android:layout_toRightOf="@+id/imageView1"
+        android:text="Name of the bridge"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>
+<!-- From: file:/D:/One%20Drive/Documents/Hue%20Controller%20for%20Glass/App%20Project/HueContollerForGlass/res/layout/activity_bridge_settings_menu.xml -->

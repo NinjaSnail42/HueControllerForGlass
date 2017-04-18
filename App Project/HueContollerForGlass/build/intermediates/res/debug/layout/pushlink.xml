@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="240px"
+       	android:layout_marginRight="40px"
+       	android:layout_marginTop="40px"
+       	android:layout_marginLeft="40px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/pushlink_image" />
+
+    <ProgressBar
+        android:id="@+id/progressBarCountdown"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:progressDrawable="@drawable/progress_bar_determinate"
+        android:layout_width="wrap_content"
+        android:layout_height="10px"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="560px"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/progressBarCountdown"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="40px"
+        android:layout_marginLeft="40px"
+        android:layout_marginRight="40px"
+        android:gravity="center"
+        android:text="Press the link button on the bridge."
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="24px" />
+
+</RelativeLayout>
+<!-- From: file:/D:/One%20Drive/Documents/Hue%20Controller%20for%20Glass/App%20Project/HueContollerForGlass/res/layout/pushlink.xml -->

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hue Contoller for Glass</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+    <string name="title_activity_setup">Setup</string>
+    <string name="bridge_name">Test</string>
+    <string name="connecting">Connecting ...</string>
+    <string name="title_activity_pushlink">Pushlink</string>
+    <string name="title_error">Error</string>
+    <string name="search_progress">Searching for Bridge ...</string>
+    <string name="btn_ok">Ok</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_on">OnActivity</string>
+    <string name="title_activity_off">OffActivity</string>
+    <string name="title_activity_random">RandomActivity</string>
+    <string name="title_activity_connecting">Connecting</string>
+    <string name="title_activity_error">Error</string>
+    <string name="title_activity_searching">Searching</string>
+    <string name="title_activity_settings_launch">SettingsLaunch</string>
+    <string name="title_activity_bridge_settings">BridgeSettings</string>
+    <string name="title_activity_bridge_settings_menu">BridgeSettingsMenu</string>
+    <string name="connecting_bridge_name">Connecting to bridge...</string>
+    <string name="alert_text">Alert</string>
+    <string name="alert_footnote_text">Alert Footnote</string>
+
+</resources>

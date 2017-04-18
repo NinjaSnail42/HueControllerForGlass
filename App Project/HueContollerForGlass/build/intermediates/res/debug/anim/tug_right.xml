@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate
+        android:fromXDelta="0%p"
+        android:toXDelta="20%p"
+        android:duration="@integer/slide_duration_ms"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        />
+    <translate
+        android:startOffset="@integer/slide_duration_ms"
+        android:fromXDelta="0%p"
+        android:toXDelta="-20%p"
+        android:duration="@integer/slide_duration_ms"
+        android:interpolator="@android:anim/decelerate_interpolator"
+        />
+</set>
+<!-- From: file:/D:/One%20Drive/Documents/Hue%20Controller%20for%20Glass/App%20Project/HueContollerForGlass/res/anim/tug_right.xml -->

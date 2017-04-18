@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/bridgeName"
+        android:title="@+string/bridge_name"
+        android:icon="@drawable/ic_launcher"/>
+        
+    <item
+        android:id="@+id/setupBridge"
+        android:title="Setup bridge"
+        android:icon="@drawable/ic_launcher"/>
+</menu>
+<!-- From: file:/D:/One%20Drive/Documents/Hue%20Controller%20for%20Glass/App%20Project/HueContollerForGlass/res/menu/setupmenu.xml -->

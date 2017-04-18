@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/One%20Drive/Documents/Hue%20Controller%20for%20Glass/App%20Project/HueContollerForGlass/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="card_generic_padding">40.0px</dimen>
+    <dimen name="menu_icon_margin">20.0px</dimen>
+    <dimen name="menu_icon_size">50.0px</dimen>
+    <dimen name="menu_text_size">70.0px</dimen>
+    <dimen name="slider_bar_height">12.0px</dimen>
+    <!-- From: file:/D:/One%20Drive/Documents/Hue%20Controller%20for%20Glass/App%20Project/HueContollerForGlass/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="icon" type="id">false</item>
+    <item name="indeterminate_slider" type="id">false</item>
+    <item name="label" type="id">false</item>
+    <item name="slider" type="id">false</item>
+    <item name="slider_control" type="id">false</item>
+    <!-- From: file:/D:/One%20Drive/Documents/Hue%20Controller%20for%20Glass/App%20Project/HueContollerForGlass/res/values/integers.xml -->
+    <eat-comment/>
+    <integer name="horizontal_scroll_deferred_load_animation_duration_ms">200</integer>
+    <integer name="horizontal_scroll_deferred_sizing_animation_duration_ms">50</integer>
+    <integer name="slide_duration_ms">150</integer>
+    <integer name="slider_in_out_animation_duration_ms">300</integer>
+    <!-- From: file:/D:/One%20Drive/Documents/Hue%20Controller%20for%20Glass/App%20Project/HueContollerForGlass/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="alert_footnote_text">Alert Footnote</string>
+    <string name="alert_text">Alert</string>
+    <string name="app_name">Hue Contoller for Glass</string>
+    <string name="bridge_name">Test</string>
+    <string name="btn_ok">Ok</string>
+    <string name="connecting">Connecting ...</string>
+    <string name="connecting_bridge_name">Connecting to bridge...</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search_progress">Searching for Bridge ...</string>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+    <string name="title_activity_bridge_settings">BridgeSettings</string>
+    <string name="title_activity_bridge_settings_menu">BridgeSettingsMenu</string>
+    <string name="title_activity_connecting">Connecting</string>
+    <string name="title_activity_error">Error</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_off">OffActivity</string>
+    <string name="title_activity_on">OnActivity</string>
+    <string name="title_activity_pushlink">Pushlink</string>
+    <string name="title_activity_random">RandomActivity</string>
+    <string name="title_activity_searching">Searching</string>
+    <string name="title_activity_settings_launch">SettingsLaunch</string>
+    <string name="title_activity_setup">Setup</string>
+    <string name="title_error">Error</string>
+    <!-- From: file:/D:/One%20Drive/Documents/Hue%20Controller%20for%20Glass/App%20Project/HueContollerForGlass/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

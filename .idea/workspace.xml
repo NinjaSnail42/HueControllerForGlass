@@ -2,15 +2,586 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f27d40e-e30d-42c3-b482-81b6e408759d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Hue Controller for Glass.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HueControllerForGlass.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/BridgeSettingsMenu$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/BridgeSettingsMenu$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/BridgeSettingsMenu$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/BridgeSettingsMenu$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/BridgeSettingsMenu$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/BridgeSettingsMenu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/BuildConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Connecting.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Error$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Error$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Error$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Error.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Home$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Home$2$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Home$2$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Home$2$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Home$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Home$AlertDialog$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Home$AlertDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Home.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/MainActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/MainActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/MainActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/MainActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/OffActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/OffActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/OffActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/OffActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/OnActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/OnActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/OnActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/OnActivity$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/OnActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/PHWizardAlertDialog$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/PHWizardAlertDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Pushlink$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Pushlink$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Pushlink.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/R$anim.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/R$attr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/R$dimen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/R$drawable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/R$id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/R$integer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/R$layout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/R$menu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/R$string.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/R$style.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/R$xml.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/RandomActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/RandomActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/RandomActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/RandomActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Searching.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/SettingsLaunch$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/SettingsLaunch$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/SettingsLaunch$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/SettingsLaunch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontollerforglass/Setup.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontrollerforglass/data/AccessPointListAdapter$BridgeListItem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontrollerforglass/data/AccessPointListAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/classes/com/ninjasnailstudios/huecontrollerforglass/data/HueSharedPreferences.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/BridgeSettingsMenu$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/BridgeSettingsMenu$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/BridgeSettingsMenu$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/BridgeSettingsMenu$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/BridgeSettingsMenu$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/BridgeSettingsMenu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/BuildConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Connecting.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Error$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Error$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Error$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Error.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Home$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Home$2$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Home$2$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Home$2$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Home$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Home$AlertDialog$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Home$AlertDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Home.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/MainActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/MainActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/MainActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/MainActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/OffActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/OffActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/OffActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/OffActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/OnActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/OnActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/OnActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/OnActivity$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/OnActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/PHWizardAlertDialog$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/PHWizardAlertDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Pushlink$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Pushlink$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Pushlink.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/R$anim.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/R$attr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/R$dimen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/R$drawable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/R$id.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/R$integer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/R$layout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/R$menu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/R$string.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/R$style.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/R$xml.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/RandomActivity$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/RandomActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/RandomActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/RandomActivity.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Searching.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/SettingsLaunch$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/SettingsLaunch$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/SettingsLaunch$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/SettingsLaunch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontollerforglass/Setup.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontrollerforglass/data/AccessPointListAdapter$BridgeListItem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontrollerforglass/data/AccessPointListAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/classes/debug/com/ninjasnailstudios/huecontrollerforglass/data/HueSharedPreferences.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/dex/debug/classes.dex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/incremental/aidl/debug/dependency.store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/incremental/aidl/test/debug/dependency.store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/pre-dexed/debug/huelocalsdk-07e5942a5ed2fb76a9e67102ebf2fb83f7d774c3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/pre-dexed/debug/sdkresources-b13927f6d8b5763dd348c275d55bdb63894dd8f2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable-hdpi-v4/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable-ldpi-v4/pushlink_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable-ldpi-v4/random.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable-mdpi-v4/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable-xhdpi-v4/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable-xxhdpi-v4/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0006.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0007.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0009.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0011.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0012.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0013.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0014.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0016.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0017.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0018.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0019.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0020.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0021.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0022.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0023.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0025.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0026.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0027.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0028.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0029.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0030.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0031.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0032.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0033.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0034.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0035.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0036.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0037.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0038.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0039.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0040.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0041.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0042.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0043.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0044.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0045.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0046.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0047.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0048.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0049.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0050.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0051.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0052.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0053.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0054.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0055.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0056.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0057.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0058.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bar_candy0059.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/bridge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/ic_cloud_sad_150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/resources-debug-test.ap_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/resources-debug.ap_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/outputs/apk/HueContollerForGlass-debug-unaligned.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/outputs/apk/HueContollerForGlass-debug.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/libs/huelocalsdk.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/libs/sdkresources.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontollerforglass/SliderView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0006.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0007.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0009.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0011.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0012.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0013.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0014.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0016.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0017.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0018.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0019.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0020.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0021.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0022.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0023.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0025.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0026.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0027.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0028.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0029.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0030.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0031.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0032.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0033.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0034.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0035.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0036.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0037.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0038.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0039.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0040.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0041.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0042.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0043.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0044.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0045.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0046.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0047.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0048.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0049.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0050.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0051.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0052.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0053.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0054.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0055.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0056.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0057.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0058.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/bar_candy0059.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-ldpi/pushlink_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-ldpi/random.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/ic_launcher-web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/libs/huelocalsdk.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/libs/sdkresources.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable-ldpi/pushlink_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable-ldpi/random.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0006.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0007.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0009.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0011.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0012.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0013.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0014.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0016.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0017.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0018.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0019.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0020.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0021.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0022.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0023.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0025.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0026.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0027.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0028.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0029.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0030.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0031.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0032.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0033.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0034.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0035.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0036.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0037.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0038.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0039.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0040.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0041.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0042.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0043.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0044.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0045.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0046.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0047.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0048.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0049.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0050.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0051.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0052.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0053.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0054.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0055.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0056.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0057.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0058.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bar_candy0059.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/bridge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/ic_cloud_sad_150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Keystore/Hue Controller for Glass Keystore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Keystore/HueContollerForGlass.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/APKs/V 1.1/HueContollerForGlass.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/APKs/V 1.2/HueContollerForGlass.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Images and Icons/Hue Icon copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Images and Icons/Hue Icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Images and Icons/HueLuxNew.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Images and Icons/bridge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Images and Icons/bridgeold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Images and Icons/ic_cloud_sad_150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Images and Icons/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Images and Icons/ic_launcherold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Images and Icons/pushlink_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Bridge Info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Bridge Not Found.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Bridge Settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Bridge listed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Connecting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Delete Option.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/New Push Link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/On.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Pushlink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Randomize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Rename Option.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Renamed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Renaming.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Searching.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Screen Shots/Settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.gradle/2.2.1/taskArtifacts/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/gradle-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/libraries/huelocalsdk.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/libraries/huelocalsdk.xml___jb_bak___" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/libraries/sdkresources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/misc-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/workspace-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/AndroidManifest-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/HueContollerForGlass-BrandonsSurface.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/HueContollerForGlass.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/AndroidManifest-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/bin/jarlist.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build-BrandonsSurface.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/generated/source/buildConfig/debug/com/ninjasnailstudios/huecontollerforglass/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/generated/source/buildConfig/test/debug/com/ninjasnailstudios/huecontollerforglass/test/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/generated/source/r/debug/com/ninjasnailstudios/huecontollerforglass/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/dex-cache/cache-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/dex-cache/cache.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/incremental/mergeAssets/test/debug/merger.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/incremental/mergeResources/debug/merger.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/incremental/mergeResources/test/debug/merger.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/manifests/test/debug/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/anim/slide_in_left.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/anim/slide_in_right.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/anim/slide_out_left.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/anim/slide_out_right.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/anim/tug_right.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/progress_bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/progress_bar_determinate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/drawable/slider_indeterminate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/activity_bridge_settings_menu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/activity_connecting.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/activity_error.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/activity_home.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/activity_off.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/activity_on.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/activity_random.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/activity_searching.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/activity_settings_launch.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/activity_setup.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/bridgelistlinear.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/pushlink.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/layout/selectbridge_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/menu/bridge_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/menu/setupmenu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/values-v11/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/values-v14/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/values/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/intermediates/res/debug/xml/app_voice_trigger.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/build/outputs/apk/manifest-merger-debug-report.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/gen/com/ninjasnailstudios/huecontollerforglass/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/gen/com/ninjasnailstudios/huecontollerforglass/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/gradle/wrapper/gradle-wrapper-BrandonsSurface.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/AndroidManifest-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontollerforglass/Connecting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontollerforglass/Error.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontollerforglass/Home.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontollerforglass/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontollerforglass/OffActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontollerforglass/OnActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontollerforglass/PHWizardAlertDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontollerforglass/Pushlink.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontollerforglass/RandomActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontollerforglass/Setup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontollerforglass/SliderView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontrollerforglass/data/AccessPointListAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/java/com/ninjasnailstudios/huecontrollerforglass/data/HueSharedPreferences.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/anim/slide_in_left-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/anim/slide_in_left.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/anim/slide_in_right-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/anim/slide_in_right.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/anim/slide_out_left-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/anim/slide_out_left.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/anim/slide_out_right-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/anim/slide_out_right.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/anim/tug_right-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/anim/tug_right.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable/progress_bar_determinate-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable/progress_bar_determinate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable/slider_indeterminate-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/drawable/slider_indeterminate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_connecting-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_connecting.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_error-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_error.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_home-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_home.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_main-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_off-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_off.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_on-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_on.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_random-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_random.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_setup-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/activity_setup.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/bridgelistlinear-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/bridgelistlinear.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/pushlink-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/pushlink.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/selectbridge_item-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/selectbridge_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/slider-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/layout/slider.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/menu/setupmenu-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/menu/setupmenu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values-v11/styles-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values-v11/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values-v14/styles-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values-v14/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values/dimens-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values/ids-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values/ids.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values/integers-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values/integers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values/strings-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values/styles-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/xml/app_voice_trigger-BrandonsSurface.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/hueContollerForGlass/src/main/res/xml/app_voice_trigger.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/import-summary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/local-BrandonsSurface.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/local.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/proguard-project.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/anim/slide_in_left.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/anim/slide_in_right.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/anim/slide_out_left.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/anim/slide_out_right.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/anim/tug_right.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/progress_bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/progress_bar_determinate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/drawable/slider_indeterminate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/activity_bridge_settings_menu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/activity_connecting.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/activity_error.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/activity_home.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/activity_off.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/activity_on.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/activity_random.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/activity_searching.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/activity_settings_launch.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/activity_setup.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/bridgelistlinear.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/pushlink.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/layout/selectbridge_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/menu/bridge_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/menu/setupmenu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/values-v11/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/values-v14/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/values/ids.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/values/integers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/res/xml/app_voice_trigger.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontollerforglass/BridgeSettingsMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontollerforglass/Connecting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontollerforglass/Error.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontollerforglass/Home.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontollerforglass/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontollerforglass/OffActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontollerforglass/OnActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontollerforglass/PHWizardAlertDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontollerforglass/Pushlink.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontollerforglass/RandomActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontollerforglass/Searching.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontollerforglass/SettingsLaunch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontollerforglass/Setup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontrollerforglass/data/AccessPointListAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App Project/HueContollerForGlass/src/com/ninjasnailstudios/huecontrollerforglass/data/HueSharedPreferences.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/APKs/V 1.2/Release Notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hue Controller for Glass.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -368,6 +939,14 @@
       <option name="presentableId" value="Default" />
       <updated>1443841984110</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added all of the files associated with the project.">
+      <created>1492490669546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1492490669546</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -412,6 +991,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added all of the files associated with the project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all of the files associated with the project." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

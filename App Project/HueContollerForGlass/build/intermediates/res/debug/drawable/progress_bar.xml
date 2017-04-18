@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@android:id/background">
+    <color android:color="#123456"/>
+  </item>
+  <item android:id="@android:id/progress">
+    <clip>
+      <color android:color="#654321"/>
+    </clip>
+  </item>
+</layer-list><!-- From: file:/D:/One%20Drive/Documents/Hue%20Controller%20for%20Glass/App%20Project/HueContollerForGlass/res/drawable/progress_bar.xml -->

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Documents\Workspace\HueContollerForGlass\libs\huelocalsdk.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="73617448db07e14087ed417984b1062330cd0f2d">
+        <dex dex="D:\Documents\Workspace\HueContollerForGlass\build\intermediates\pre-dexed\debug\huelocalsdk-48cf867db3979d0f3d538adc48eee5a33681d8a9.jar" />
+    </item>
+    <item
+        jar="D:\Documents\Workspace\HueContollerForGlass\libs\sdkresources.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="50028ba020161448a2668c4467fa9b4b36c8e155">
+        <dex dex="D:\Documents\Workspace\HueContollerForGlass\build\intermediates\pre-dexed\debug\sdkresources-2591a04ab645ba7c341728777e9e82a3a2aeedef.jar" />
+    </item>
+
+</items>
